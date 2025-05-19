@@ -36,7 +36,7 @@
 
 ---
 
-#### 💜 Purple (UE5 – [LevelUp Build](https://https://www.hiteshks.com/unrealenginepurple))
+#### 💜 Purple (UE5 – [LevelUp Build](https://www.hiteshks.com/unrealenginepurple))
 **Roles:** Game Designer (Combat & Quest) + Programmer (UI/Combat)  
 **Engine:** Unreal Engine 5 | **Team Size:** 15  
 > Solve puzzles using color-based mechanics and combat as three characters — Coral, Navy, and their merged form: Purple.
