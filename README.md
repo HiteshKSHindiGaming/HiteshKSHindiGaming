@@ -21,7 +21,7 @@
 
 ### 🧩 Featured Projects
 
-#### 🕵️‍♂️ [Detective Dotson (Steam)](https://store.steampowered.com/app/2739170/Detective_Dotson/)
+#### 🕵️‍♂️ [Detective Dotson (Steam)](https://store.steampowered.com/app/2450840/Detective_Dotson/)
 **Role:** Game Designer  
 **Engine:** Unity | **Team Size:** 15+  
 > Explore modern-day India solving crimes in this detective adventure full of Bollywood-inspired events and branching mysteries.
