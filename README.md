@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m Hitesh Kumar Sharma
 
 🎮 Game Designer | 🧠 Level Designer | 📜 Narrative Scripter | 🛠 Programmer  
-📍 Based in Toronto | ✉️ khitesh399@gmail.com | 🌐 [HiteshKS.com](https://HiteshKS.com)  
-💼 [LinkedIn](https://linkedin.com/in/hiteshks) | 🎥 [YouTube (3M+ Subs)](https://www.youtube.com/@HiteshKSHindiGaming)
+📍 Based in Canada | ✉️ khitesh399@gmail.com | 🌐 [HiteshKS.com](https://HiteshKS.com)  
+💼 [LinkedIn](https://linkedin.com/in/hiteshks) | 🎥 [YouTube (2.5M+ Subs)](https://www.youtube.com/@HiteshKSHindiGaming)
 
 ---
 
@@ -15,7 +15,12 @@
 ![C%23](https://img.shields.io/badge/C%23-Unity-green?logo=csharp)
 ![C++](https://img.shields.io/badge/C++-Unreal-blue?logo=cplusplus)
 ![Photoshop](https://img.shields.io/badge/Photoshop-UI%20Design-blue?logo=adobephotoshop)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-Video%20Editing-purple?logo=adobepremierepro)
+![Perforce](https://img.shields.io/badge/Perforce-Version%20Control-darkblue?logo=perforce)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-orange?logo=git)
+![Trello](https://img.shields.io/badge/Trello-Task%20Management-0079BF?logo=trello)
+![Miro](https://img.shields.io/badge/Miro-Whiteboarding-yellow?logo=miro)
+
 
 ---
 
