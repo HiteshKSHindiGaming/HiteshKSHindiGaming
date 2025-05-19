@@ -1,6 +1,7 @@
 ## 👋 Hi, I’m Hitesh Kumar Sharma
 
-🎮 Game Designer | 🧠 Level Designer | 🛠 Programmer | 📜 Narrative Scripter 
+🎮 Game Designer | 🧠 Level Designer | 🛠 Programmer | 📜 Narrative Scripter
+
 📍 Based in Canada | ✉️ khitesh399@gmail.com | 🌐 [HiteshKS.com](https://HiteshKS.com)  
 💼 [LinkedIn](https://linkedin.com/in/hiteshks) | 🎥 [YouTube (2.5M+ Subs)](https://www.youtube.com/@HiteshKSHindiGaming)
 
